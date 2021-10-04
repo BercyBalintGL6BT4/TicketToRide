@@ -1,0 +1,77 @@
+.container {
+  background-color: blanchedalmond;
+  text-align: center;
+}
+
+body {
+  display: block;
+  width: 100%;
+  background-color: gray;
+}
+.button {
+  display: block;
+}
+.row {
+  padding: 3%;
+  padding-top: 1%;
+}
+
+.card {
+  padding: 2%;
+  margin: 1%;
+}
+
+.cards {
+  height: 10%;
+  background-color: aliceblue;
+}
+
+img {
+  width: 90%;
+  height: 90%;
+}
+.page {
+  height: 90%;
+}
+.play_area {
+  height: 800px;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.canvas_holder {
+  text-align: center;
+}
+
+.playing_card {
+  width: 60%;
+  height: 10%;
+  background-color: blue;
+  padding: 1%;
+  margin: 1%;
+}
+
+.card_holders {
+  text-align: center;
+}
+
+.city {
+  position: relative;
+  width: 10%;
+  height: 10%;
+}
+
+.gameArea {
+  background-image: url("./map.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.road_cards {
+  background-color: black;
+}

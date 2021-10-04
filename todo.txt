@@ -1,0 +1,4 @@
+input hibák kiíratása, ellenőrzése
+állapotok syncelése ha csinálunk valamit
+és állapotok befrissítése ha történik valami
+round számoló statebe rakása
